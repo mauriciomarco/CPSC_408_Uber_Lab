@@ -5,7 +5,7 @@ import random
 
 mydb = mysql.connector.connect(host="localhost",
 user="root",
-password="Bdyecru3!",
+password="password",
 auth_plugin='mysql_native_password',
 database="RideShare") 
 # print(mydb)
